@@ -7,4 +7,4 @@ results = model.predict(
     save=True
 )
 
-print("Inference completed.")
+print("Inference fbdfb completed.")
